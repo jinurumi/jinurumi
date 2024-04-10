@@ -1,6 +1,5 @@
-<div align="center"> 
 ![header](https://capsule-render.vercel.app/api?type=waving)
-</div>
+<div align="center"> 
 ####  :wave: Welcome my github profile !
 
 - 🌱 I’m currently learning AI
@@ -20,3 +19,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
