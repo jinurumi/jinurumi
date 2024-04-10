@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+jinurumi's+github;)](https://git.io/typing-svg)
 - 🌱 I’m currently learning AI
