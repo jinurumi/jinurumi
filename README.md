@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving)
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+jinurumi's+github;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+jinurumi's+github;)](https://git.io/typing-svg)
 </div>
 
 - 🌱 I’m currently learning AI
