@@ -23,6 +23,8 @@
  
   <br/>
 https://velog.io/@jinurumi/posts
+
+  <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinurumi&layout=compact)
 
 </div>
