@@ -1,13 +1,12 @@
+<div align="center"> 
 ![header](https://capsule-render.vercel.app/api?type=waving)
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+jinurumi's+github;)](https://git.io/typing-svg)
-</div>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+jinurumi's+github;)](https://git.io/typing-svg)
+####  :wave: Welcome my github profile !
+
 - 🌱 I’m currently learning AI
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinurumi&layout=compact)
-
+</div>
 <!--
 **jinurumi/jinurumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
