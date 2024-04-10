@@ -7,7 +7,6 @@
  <br/>
 
 - 🌱 I’m currently learning AI
-
 ####  :clipboard: Once I've Used 
   
  <br/>
