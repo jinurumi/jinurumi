@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome to jinurumi's github)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+jinurumi's+github;Second+line+of+text)](https://git.io/typing-svg)
 - 🌱 I’m currently learning AI
 
 
