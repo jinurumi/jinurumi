@@ -6,7 +6,6 @@
  <br/>
  <br/>
 
-- 🌱 I’m currently learning AI
 
 
 #### :pencil2: Study log
