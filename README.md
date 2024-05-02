@@ -7,18 +7,8 @@
  <br/>
 
 - 🌱 I’m currently learning AI
-<br/> 
-#### :clipboard: Once I've Used 
-  
- <br/>
-  
-<img src="https://img.shields.io/badge/PYTHON-007396?style=for-the-badge&logo=PYTHON&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-F7DF1E?style=for-the-badge&logo=MySQL&logoColor=white">
 
- 
-   <br/>
-   <br/>
- 
+
 #### :pencil2: Study log
  
   <br/>
